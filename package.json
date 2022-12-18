@@ -1,0 +1,24 @@
+{
+  "name": "curso-npm",
+  "version": "1.0.0",
+  "description": "Testeo para curso de npm en platzi",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pacha-rg/curso-npm.git"
+  },
+  "keywords": ["javascript", "platzi", "npm"],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/pacha-rg/curso-npm/issues"
+  },
+  "homepage": "https://github.com/pacha-rg/curso-npm#readme",
+  "bin": {
+    "curso-npm": "./bin/global.js"
+  },
+  "preferGlobal": true
+}
